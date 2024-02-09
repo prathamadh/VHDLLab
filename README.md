@@ -1,4 +1,4 @@
-# link to docker image:-
+# link to docker image:- https://drive.google.com/file/d/1-EeScxm3K1CckwhAIT2C_KwlWzC1bx1i/view?usp=sharing
 
 
 # how to start and run docker image 
@@ -25,7 +25,7 @@ cd <question>
 ```
 6)to visualize with gtkwave you must map port with display on your host computer and install a software to view it so instead of this ,just install gtkwave from this github 
 ```
-git clone 
+git clone https://github.com/fwswdev/GtkWaveAutoRun.git
 ```
 extract the zip and click the executeable , then the gtkwave would be automatically installed and run .
 
@@ -33,3 +33,4 @@ extract the zip and click the executeable , then the gtkwave would be automatica
 ```
 docker cp <containerid>:<filelocationofvcd> <locationononhostdevice>
 ```
+8)load the vcd file on gtkwave to view the output.
