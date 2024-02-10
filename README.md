@@ -1,5 +1,8 @@
-** link to docker image:- https://drive.google.com/file/d/1-EeScxm3K1CckwhAIT2C_KwlWzC1bx1i/view?usp=sharing **
- ** link to drive file containing all files : https://drive.google.com/drive/folders/1u6_nKD8owLtfesqyFI2QdEYjDJdtyXWE?usp=sharing **
+ link to docker image:- https://drive.google.com/file/d/1-EeScxm3K1CckwhAIT2C_KwlWzC1bx1i/view?usp=sharing
+
+link to drive file containing all files : https://drive.google.com/drive/folders/1u6_nKD8owLtfesqyFI2QdEYjDJdtyXWE?usp=sharing 
+
+**----choose either step A or B----**
 # A)how to start and run docker image with dockercompose 
 --althrough it has only one dockerfile and no compose.yml:(
 ```
