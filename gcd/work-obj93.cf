@@ -1,0 +1,7 @@
+v 4
+file . "gcd_tb.vhdl" "feda7641a38e171e01d2607b3162442cb963eed8" "20240209190341.368":
+  entity tb at 1( 0) + 0 on 15;
+  architecture tbarc of tb at 7( 68) + 0 on 16;
+file . "gcd.vhdl" "59c903f0a6e9bd941e007dd6726ab0a3703fef1d" "20240209190341.300":
+  entity gcd at 1( 0) + 0 on 13;
+  architecture gcdarc of gcd at 10( 151) + 0 on 14;
