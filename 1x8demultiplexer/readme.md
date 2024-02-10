@@ -1,1 +1,1 @@
-![Alt text]("https://github.com/prathamadh/VHDLLab/blob/main/Images/1x8muxnew.png")
+![D_flipflop](Images/dec.png)
