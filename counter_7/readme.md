@@ -1,1 +1,2 @@
-![Alt text]("/Images/dec.png")
+# 7 state counter
+![Alt text](../Images/dec.png)
