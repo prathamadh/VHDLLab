@@ -1,1 +1,2 @@
-![Alt text]("/Images/jknew.png")
+# jk flipflop
+![Alt text](../Images/jknew.png)
