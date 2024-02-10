@@ -1,1 +1,1 @@
-![D_flipflop](Images/dec.png)
+![D_flipflop](../Images/dec.png)
