@@ -1,1 +1,2 @@
-![Alt text]("/Images/ucold.png")
+# upcounter
+![Alt text](../Images/ucold.png)
