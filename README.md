@@ -7,6 +7,7 @@ link to drive file containing all files : https://drive.google.com/drive/folders
 --althrough it has only one dockerfile and no compose.yml:(
 ```
 git clone https://github.com/prathamadh/VHDLLab.git
+cd VHDLLab
 docker build -t test1vhdl .
 docker run --name test1vhdl -it test1vhdl /bin/bash
 ```
