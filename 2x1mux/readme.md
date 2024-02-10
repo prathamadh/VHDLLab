@@ -1,1 +1,1 @@
-![Alt text]("/Images/2X1MUX.png")
+![Alt text]("../Images/2X1MUX.png")
