@@ -1,13 +1,25 @@
-# link to docker image:- https://drive.google.com/file/d/1-EeScxm3K1CckwhAIT2C_KwlWzC1bx1i/view?usp=sharing
-# link to drive file containing all files : https://drive.google.com/drive/folders/1u6_nKD8owLtfesqyFI2QdEYjDJdtyXWE?usp=sharing
+ link to docker image:- https://drive.google.com/file/d/1-EeScxm3K1CckwhAIT2C_KwlWzC1bx1i/view?usp=sharing
 
-# how to start and run docker image 
+link to drive file containing all files : https://drive.google.com/drive/folders/1u6_nKD8owLtfesqyFI2QdEYjDJdtyXWE?usp=sharing 
+
+**----choose either step A or B----**
+# A)how to start and run docker image with dockercompose 
+--althrough it has only one dockerfile and no compose.yml:(
+```
+git clone https://github.com/prathamadh/VHDLLab.git
+cd VHDLLab
+docker build -t test1vhdl .
+docker run --name test1vhdl -it test1vhdl /bin/bash
+```
+**skip to step number 5 to continue form here**
+# B)how to start and run docker image without dockercompose
 
 1)download the image 
 
 2)run command 
 ```
 docker load -i /path/to/your/image.tar
+
 ```
 3)The images should appear in docker images or by command docker ps -a 
 
