@@ -1,1 +1,2 @@
-![Alt text]("/Images/dflipflop.png")
+# D FlipFlop
+![Alt text](../Images/dflipflop.png)
