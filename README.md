@@ -6,6 +6,7 @@ link to drive file containing all files : https://drive.google.com/drive/folders
 # A)how to start and run docker image with dockercompose 
 --althrough it has only one dockerfile and no compose.yml:(
 ```
+git clone https://github.com/prathamadh/VHDLLab.git
 docker build -t test1vhdl .
 docker run --name test1vhdl -it test1vhdl /bin/bash
 ```
