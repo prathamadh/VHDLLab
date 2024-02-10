@@ -1,1 +1,2 @@
-![Alt text]("/Images/fanew.png")
+# FULLADDER
+![Alt text](../Images/fanew.png)
