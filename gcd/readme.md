@@ -1,1 +1,2 @@
-![Alt text]("/Images/gcd.png")
+# Greatest Common Divisior
+![Alt text](../Images/gcd.png)
