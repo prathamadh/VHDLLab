@@ -1,1 +1,2 @@
-![Alt text]("../Images/2X1MUX.png")
+
+![D_flipflop](../Images/2X1MUX.png)
