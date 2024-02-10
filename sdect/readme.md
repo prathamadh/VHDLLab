@@ -1,1 +1,2 @@
-![Alt text]("/Images/sd.png")
+# Sequence Detection
+![Alt text](../Images/sd.png)
