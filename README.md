@@ -34,3 +34,24 @@ extract the zip and click the executeable , then the gtkwave would be automatica
 docker cp <containerid>:<filelocationofvcd> <locationononhostdevice>
 ```
 8)load the vcd file on gtkwave to view the output.
+
+
+
+if y0u are lazy like me ;) ,here are all the copy commands 
+```
+docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/2x1mux/2x1mux.vcd C:\Users\acm\Desktop\vcdcol
+
+docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/2x4dec/dec.vcd C:\Users\acm\Desktop\vcdcol
+
+docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/fulladder/fa.vcd C:\Users\acm\Desktop\vcdcol
+
+docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/gcd/result.vcd C:\Users\acm\Desktop\vcdcol
+
+docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/jk/jk.vcd C:\Users\acm\Desktop\vcdcol
+
+docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/lcm/lcm.vcd C:\Users\acm\Desktop\vcdcol
+
+docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/sdect/sd.vcd C:\Users\acm\Desktop\vcdcol
+
+docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/upcounter/uc.vcd C:\Users\acm\Desktop\vcdcol
+```
