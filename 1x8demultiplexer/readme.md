@@ -7,12 +7,9 @@ This VHDL code implements a 1x8 demultiplexer, which takes a single input signal
 - **demux.vhdl**: Contains the VHDL code for the demultiplexer.
 - **demux_tb.vhdl**: This file, providing documentation for the VHDL implementation.
 
-## Code Explanation
+## Code Explanation of Demultiplexer VHDL Code
 
-### Entity Declaration
-## Markdown Explanation of Demultiplexer VHDL Code
 
-This markdown file explains the VHDL code for a 4-to-1 demultiplexer.
 
 **Code Summary:**
 
