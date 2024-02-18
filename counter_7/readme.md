@@ -37,5 +37,5 @@ The code uses logical expressions to control each segment's activation based on 
 
 I hope this markdown explanation clarifies the VHDL code for the BCD to 7-segment decoder. Feel free to ask if you have any further questions!
 
-# 7 state counter
+# 7 state display
 ![Alt text](../Images/dec.png)
