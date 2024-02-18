@@ -1,4 +1,4 @@
-### 1x8 Demultiplexer VHDL Implementation
+## 1x8 Demultiplexer VHDL Implementation
 
 ## Overview
 This VHDL code implements a 1x8 demultiplexer, which takes a single input signal (`A`) and directs it to one of eight output lines based on the control signals (`S2`, `S1`, `S0`). This README provides an explanation of the code structure and functionality.
