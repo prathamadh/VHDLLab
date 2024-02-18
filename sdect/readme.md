@@ -1,4 +1,4 @@
-##Explanation of VHDL Code for State Detector (SD)
+## Explanation of VHDL Code for State Detector (SD)
 
 This file explains the VHDL code for a state detector circuit, which identifies specific input sequences.
 
