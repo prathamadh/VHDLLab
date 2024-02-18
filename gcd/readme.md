@@ -1,4 +1,3 @@
-## Markdown Explanation of VHDL Code for Greatest Common Divisor (GCD) Calculator
 
  ## Explaination the VHDL code for a GCD calculator using the Euclidean algorithm.
 
