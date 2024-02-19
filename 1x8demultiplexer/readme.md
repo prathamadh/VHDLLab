@@ -47,4 +47,4 @@ The code uses logical expressions to control the activation of each output. Each
 - Error handling for invalid input combinations might be needed in practical applications.
 
 # 1x8 Demultiplexer
-![D_flipflop](../Images/1x8muxnew.png)
+![demux](../Images/1x8muxnew.png)
