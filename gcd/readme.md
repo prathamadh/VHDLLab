@@ -33,6 +33,6 @@
 - The code assumes integer data
 
 # Greatest Common Divisior state diagram
-![Alt text](../Images/gcddiagram.drawio (1).png)
+![Alt text](../Images/gcddiagram.png)
 # Greatest Common Divisior
 ![Alt text](../Images/gcd.png)

@@ -35,6 +35,6 @@ The flipflop operates in two main stages:
 I hope this markdown explanation clarifies the D-flipflop VHDL code. Feel free to ask if you have any further questions!
 
 # D FlipFlop state diagram
-![Alt text](../Images/df.drawio.png.png)
+![Alt text](../Images/df.png)
 # D FlipFlop Waveform
 ![Alt text](../Images/dflipflop.png)

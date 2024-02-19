@@ -38,7 +38,7 @@ This file explains the VHDL code for a state detector circuit, which identifies 
 - Alternative implementations using a single process or different state encoding are possible.
 
 # Sequence Detection state diagram
-![Alt text](../Images/sequence.drawio.png)
+![Alt text](../Images/sequence.png)
 
 # Sequence Detection
 ![Alt text](../Images/sd.png)

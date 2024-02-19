@@ -34,7 +34,7 @@ The JK flip-flop operates based on the following rules:
 I hope this markdown explanation clarifies the JK flip-flop VHDL code. Feel free to ask if you have any further questions!
 
 # jk flipflop state diagram
-![Alt text](../Images/Fig1-JK-flipflop-State-Machine.png)
+![Alt text](../Images/jkst.png)
 
 # jk flipflop
 ![Alt text](../Images/jknew.png)

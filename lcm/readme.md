@@ -22,6 +22,6 @@ This markdown  explains the VHDL code for an LCM calculator using a similar appr
 6. **Output:** The final `LCM` is calculated as `z / x` (since `z` holds the initial product) and stored in the output port. The state returns to `start
 
 # Lowest Common Multiple state diagram
-![Alt text](../Images/lcm.drawio.png)
+![Alt text](../Images/lcm.png)
 # Lowest Common Multiple
 ![Alt text](../Images/lcmam.png)
