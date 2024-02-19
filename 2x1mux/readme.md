@@ -1,4 +1,4 @@
-##Explanation of VHDL Code for a 2-to-1 Multiplexer
+## Explanation of VHDL Code for a 2-to-1 Multiplexer
 
 This file explains the VHDL code for a 2-to-1 multiplexer, a combinational circuit that selects one of two input signals based on a control signal.
 
