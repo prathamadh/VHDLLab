@@ -1,4 +1,4 @@
-##Explanation of VHDL Code for a Structural 2-to-1 Multiplexer
+## Explanation of VHDL Code for a Structural 2-to-1 Multiplexer
 
 This explains the VHDL code for a 2-to-1 multiplexer implemented using structural modeling with basic logic gates.
 
