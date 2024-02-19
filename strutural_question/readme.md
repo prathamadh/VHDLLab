@@ -35,5 +35,5 @@ This explains the VHDL code for a 2-to-1 multiplexer implemented using structura
 
 
 
-# FULLADDER
+# 2x1 Multiplexer using Structural Modeling
 ![Alt text](../Images/struct.png)
