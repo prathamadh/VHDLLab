@@ -21,5 +21,7 @@ This markdown  explains the VHDL code for an LCM calculator using a similar appr
 5. **UpdateX/UpdateY:** Swaps the values of `x` and `y` (only in `updatex`) to maintain the larger value in `x`.
 6. **Output:** The final `LCM` is calculated as `z / x` (since `z` holds the initial product) and stored in the output port. The state returns to `start
 
+# Lowest Common Multiple state diagram
+![Alt text](../Images/lcm.drawio.png)
 # Lowest Common Multiple
 ![Alt text](../Images/lcmam.png)

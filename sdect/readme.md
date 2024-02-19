@@ -37,7 +37,8 @@ This file explains the VHDL code for a state detector circuit, which identifies 
 - Error handling for invalid input sequences might be needed in practical applications.
 - Alternative implementations using a single process or different state encoding are possible.
 
-
+# Sequence Detection state diagram
+![Alt text](../Images/sequence.drawio.png)
 
 # Sequence Detection
 ![Alt text](../Images/sd.png)
