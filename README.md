@@ -1,4 +1,3 @@
-![image](https://github.com/prathamadh/VHDLLab/assets/84092288/b04376de-8e45-4b93-bf36-17e42dbc5652)
 **----choose either step A or B----**
 # A)how to start and run docker image with dockercompose 
 --althrough it has only one dockerfile and no compose.yml:(
