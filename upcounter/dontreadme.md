@@ -1,2 +1,3 @@
 # upcounter
-![Alt text](../Images/ucold.png)
+Here contains the waveform of upcounter
+![Alt text](../Images/up.png)

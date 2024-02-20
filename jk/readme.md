@@ -31,7 +31,7 @@ The JK flip-flop operates based on the following rules:
 - The code could be made more concise using multiple processes or case statements.
 - Error handling for invalid clock or reset signals might be needed in practical applications.
 
-I hope this markdown explanation clarifies the JK flip-flop VHDL code. Feel free to ask if you have any further questions!
+
 
 # jk flipflop state diagram
 ![Alt text](../Images/jkst.png)
