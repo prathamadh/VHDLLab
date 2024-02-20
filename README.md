@@ -1,4 +1,4 @@
-
+![image](https://github.com/prathamadh/VHDLLab/assets/84092288/b04376de-8e45-4b93-bf36-17e42dbc5652)
 **----choose either step A or B----**
 # A)how to start and run docker image with dockercompose 
 --althrough it has only one dockerfile and no compose.yml:(
@@ -45,8 +45,7 @@ docker cp <containerid>:<filelocationofvcd> <locationononhostdevice>
 8)load the vcd file on gtkwave to view the output.
 
 
-
-if y0u are lazy like me ;) ,here are all the copy commands 
+here are all the copy commands 
 ```
 docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/2x1mux/2x1mux.vcd C:\Users\acm\Desktop\vcdcol
 
@@ -63,4 +62,13 @@ docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/prat
 docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/sdect/sd.vcd C:\Users\acm\Desktop\vcdcol
 
 docker cp 4df1950cefaf694e4da08b69f378455ac00d64838c06a6a1961de7a4c99ee31b:/pratical/upcounter/uc.vcd C:\Users\acm\Desktop\vcdcol
+```
+#how to install vim 
+```
+su -
+apt update
+apt install sudo
+exit
+sudo apt install vim
+
 ```
