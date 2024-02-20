@@ -8,7 +8,7 @@ entity gcd is
 end gcd;
 
 architecture gcdarc of gcd is
-type state is (start, input, output, check, check1,updatex,  updatey);
+type state is (start, input, output, check, check1,updatex);
 signal current_state, next_state: state;
 begin
 state_register:Process(CLK, RESET)
@@ -32,8 +32,7 @@ begin
 		WHEN check =>
 			if(x< y) THEN
 				next_state <= updatex;
-			else
-				next_state <= updatey;
+		
 			END IF;
 			next_state <= check1;
 		WHEN  check1 =>
@@ -47,9 +46,7 @@ begin
 			p:=x;
 			x:=y;
 			y:=p;
-		when updatey =>
-			x:=x;
-			y:=y;
+	
 		WHEN output =>
 			GCD <= 	x;
 			next_state <= start;
